@@ -12,7 +12,7 @@ To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
 # Text Formatting
 
-*italics* and **bold**
+*italics* andd **bold**
 
 superscript^2^ / subscript~2~
 
